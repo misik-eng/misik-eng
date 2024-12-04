@@ -48,9 +48,8 @@ aim to build a career in this exciting field. 🚀
 ## 📧 Contact
 
 Feel free to reach out: [isikmuhammetali96@gmail.com](mailto:isikmuhammetali96@gmail.com)
- 
+
 ---
 ✨ Thank you for visiting my profile!
-💡 I’m always open to learning and collaborating. Feel free to reach out 
+💡 I’m always open to learning and collaborating. Feel free to reach out  
 or share resources that you think might help me along the way.  
-   
