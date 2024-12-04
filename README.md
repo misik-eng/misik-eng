@@ -1,7 +1,6 @@
 
 # Welcome to My GitHub Profile! 👋
 
-
 Hello there! 🌟  
 I’m an Electrical and Electronics Engineer 
 with a strong passion for coding and technology.  
