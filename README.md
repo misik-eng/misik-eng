@@ -2,10 +2,10 @@
 # Welcome to My GitHub Profile! 👋
 
 Hello there! 🌟
-I’m an Electrical and Electronics Engineer 
+I’m an Electrical and Electronics Engineer  
 with a strong passion for coding and technology.
-While my academic background is in engineering, 
-I’ve discovered my love for programming and 
+While my academic background is in engineering,  
+I’ve discovered my love for programming and  
 aim to build a career in this exciting field. 🚀
 
 ---
@@ -30,10 +30,6 @@ aim to build a career in this exciting field. 🚀
 
 ## 🌟 More About Me 😊
 
-<details>
-  
-<summary>Click to expand!</summary>
-
 - 🥋 I practiced karate throughout school and earned a black belt (Shodan).
 - 🏹 I was part of the founding team for my high school's archery club and
   competed in a national tournament, achieving **second place** as a team.
@@ -46,8 +42,6 @@ aim to build a career in this exciting field. 🚀
 - 🎶 I play the **ney**, a traditional wind instrument.
 - 🌍 Connecting with people from diverse cultures inspires me.
 - 🎉 **Fun fact:** I’m one of **triplets**.
-
-</details>
 
 ---
 
