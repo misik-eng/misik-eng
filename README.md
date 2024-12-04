@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
 Hello there! 🌟  
 I’m an Electrical and Electronics Engineer 
 with a strong passion for coding and technology.  
