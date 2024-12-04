@@ -24,7 +24,7 @@ I’m an Electrical and Electronics Engineer with a strong passion for coding an
 - 🤖 I worked on **artificial intelligence projects** during university and loved every moment.  
 - 🎶 I play the **ney**, a traditional wind instrument.  
 - 🌍 Traveling and meeting people from different cultures brings me joy and inspiration.  
-- 🎉 **Fun fact:** I’m one of **three triplets**—yes, three siblings of the same age!  
+- 🎉 **Fun fact:** I’m one of **triplets**
 
 </details>
 ---
