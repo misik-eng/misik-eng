@@ -11,7 +11,8 @@ I’m an Electrical and Electronics Engineer with a strong passion for coding an
 1. Enhance my skills in coding and software development.  
 2. Build meaningful projects that merge engineering and technology.  
 3. Grow professionally and contribute to impactful projects in this field.
-  
+
+  ## 🌟 More About Me 😊  
 <details>
 <summary>Click to expand!</summary>
 
