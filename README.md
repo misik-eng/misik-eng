@@ -1,12 +1,10 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hello there! 🌟
-I’m an Electrical and Electronics Engineer  
-with a strong passion for coding and technology.
-While my academic background is in engineering,  
-I’ve discovered my love for Datascience and  
-aim to build a career in this exciting field.
+Hello! 🌟  
+I’m an Electrical and Electronics Engineer with a love for coding.  
+Though my background is in engineering, I’ve discovered a passion for Data Science.  
+I’m excited to build a career in this dynamic and ever-evolving field.
 
 ---
 
@@ -20,7 +18,7 @@ aim to build a career in this exciting field.
 
 ## 📚 Goals  
 
-1. Enhance my skills in coding and Datascience.
+1. Enhance my skills in coding and Data Science.
 2. Build meaningful projects that merge engineering and technology.
 
 ---
@@ -38,7 +36,7 @@ aim to build a career in this exciting field.
   loved every moment.
 - 🎶 I play the **ney**, a traditional wind instrument.
 - 🌍 Connecting with people from diverse cultures inspires me.
-- 🎉 **Fun fact:** I’m one of **triplets**.
+- 🎉 **Fun fact:** I’m **triplets**.
 
 ---
 
