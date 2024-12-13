@@ -4,6 +4,7 @@
 Hello there! 🌟
 
 I’m an Electrical and Electronics Engineer with a strong passion for coding and technology.
+
 While my academic background is in engineering, I’ve discovered
  ( and still discovering:)my love for Coding and Data
 Science and aim to build a career in this exciting field.
