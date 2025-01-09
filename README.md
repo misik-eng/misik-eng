@@ -11,18 +11,14 @@ I’m excited to build a career in this dynamic and ever-evolving field.
 
 ### 🌱 What I'm Doing  
 
-- Exploring the vast potential of GitHub as I embark on my coding journey.
-
 - Exploring GitHub's vast potential as I embark on my coding journey.
 
 - Currently, I’m part of the MIT Emerging Talent Program, working with an
 amazing team on an educational project (The Shining Star Team! 🌟).
- While gaining hands-on experience
+While gaining hands-on experience
 in collaborative project management, I’m also enhancing my skills through
 training on Development Workflows, Predictive Stepping, Debugging, Documenting and
 Testing.
-
-- I recently started my learning journey with the MIT Emerging Talent Program. 😊
 
 - Documenting my progress and sharing insights through a personal blog.
 (Coming soon!)
@@ -40,13 +36,13 @@ Testing.
 
 - 🥋 I practiced karate throughout school and earned a black belt (Sho-dan).
 - 🏹 I was part of the founding team for my high school's archery club and
-  competed in a national tournament, achieving **second place** as a team.
+competed in a national tournament, achieving **second place** as a team.
 - I’ve attended certified courses on coding and cybersecurity during
- university learned Linux, and even used **Arch Linux** for a while.
+university learned Linux, and even used **Arch Linux** for a while.
 - 🎨 I enjoy creating **ceramics (pottery)** as a creative hobby.
 - 🥾 **Trekking** and 🚣‍♂️ **kayaking** are my favorite outdoor activities.
 - 🤖 I worked on **artificial intelligence projects** during university and
-  loved every moment.
+loved every moment.
 - 🎶 I play the **ney**, a traditional wind instrument.
 - 🌍 Connecting with people from diverse cultures inspires me.
 - 🎉 **Fun fact:** I’m **triplets**.
