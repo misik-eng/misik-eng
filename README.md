@@ -27,8 +27,10 @@ Testing.
 
 ### 📚 Goals  
 
-1. Enhance my skills in coding and Data Science.
-2. Build meaningful projects that merge engineering and technology.
+1. Successfully advance from the Foundation Track
+into the MIT Emerging Talent Certificate Program.
+2. Enhance my skills in coding and Data Science.
+3. Build meaningful projects that merge engineering and technology.
 
 ---
 
@@ -46,7 +48,7 @@ loved every moment.
 - 🎶 I play the **ney**, a traditional wind instrument.
 - 🌍 Connecting with people from diverse cultures inspires me.
 - 🎉 **Fun fact:** I’m **triplets**.
-
+  
 ---
 
 ### 💻 Technologies & Tools  
